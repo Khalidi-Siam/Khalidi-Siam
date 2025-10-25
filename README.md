@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-I'm **M.K. Khalidi Siam**, a passionate Computer Science student and Full-Stack Web Developer from Dhaka, Bangladesh. Currently pursuing my BSc in Computer Science and Engineering at BRAC University (expected graduation: October 2025), I have experience in **MERN stack** and **Django** development.
+I'm **M.K. Khalidi Siam**, a passionate Computer Science student from Dhaka, Bangladesh. I've completed my BSc in Computer Science and Engineering from BRAC University. I have gained hands on experience in **MERN stack** and **Django** through real-world projects.
 
 ### 🔭 Current Focus
 - 🧠 **Learning**: Neural Networks, Deep Learning, LLM efficiency
@@ -25,7 +25,7 @@ I'm **M.K. Khalidi Siam**, a passionate Computer Science student and Full-Stack 
 - 🏠 **Projects**: Interested in doing real-time projects in MERN and Django
 
 ### 👔 Experience
-- **Undergraduate Teaching Assistant** at BRAC University (Jun 2024 - Present)
+- **Undergraduate Teaching Assistant** at BRAC University (Jun 2024 - Sept 2025)
   - Mentoring students in core programming concepts
   - Conducting one-on-one and group consultations
   - Strengthening communication and analytical skills
