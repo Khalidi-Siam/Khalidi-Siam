@@ -24,11 +24,14 @@ I'm **M.K. Khalidi Siam**, a passionate Computer Science student from Dhaka, Ban
 - 🔍 **Research**: Optimizing Large Language Models for efficient deployment on resource-constrained edge devices
 - 🏠 **Projects**: Interested in doing real-time projects in MERN and Django
 
+<!--
 ### 👔 Experience
 - **Undergraduate Teaching Assistant** at BRAC University (Jun 2024 - Sept 2025)
   - Mentoring students in core programming concepts
   - Conducting one-on-one and group consultations
   - Strengthening communication and analytical skills
+
+-->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khalidi.siam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siam_khalidi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-k-khalidi-siam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khalidi_siam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siam074@yahoo.com) 
